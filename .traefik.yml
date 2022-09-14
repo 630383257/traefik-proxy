@@ -1,0 +1,7 @@
+displayName: ProxyRequest
+type: middleware
+import: github.com/630383257/traefik-proxy
+
+testData:
+  proxypath:    "proxy"
+  urlparameter: "url"
